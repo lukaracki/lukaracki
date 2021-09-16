@@ -1,4 +1,4 @@
-### Hi there I'm Luka 👋
+# Hi there I'm Luka 👋
 
 ## About Me 
 
