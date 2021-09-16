@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Luka 👋
 
-<!--
-**lukaracki/lukaracki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with some NFT stuff on the FLOW Blockchain
+- 👉 Some of the stuff I use daily is JavaScript, Node.js, React & The FLOW Blockchain language Cadence.
+- 👩‍🎨 When I'm not coding I'm probably making music in Ableton or designing stuff in Figma/Photoshop. I think UX Design is pretty cool too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Links:
+
+- https://instagram.com/ra.ch
+- https://sikboi.tumblr.com/
+- https://soundcloud.com/raa
+
