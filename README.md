@@ -6,9 +6,6 @@
 - Some of the stuff I use daily is JavaScript, Node.js, React, Recoil & The FLOW Blockchain language Cadence.
 - When I'm not coding I'm probably making music in Ableton or designing stuff in Figma/Photoshop. I think UX Design is pretty cool too.
 
-## Social Links:
+## Contact:
 
-- https://instagram.com/ra.ch
-- https://sikboi.tumblr.com/
-- https://soundcloud.com/raa
-
+- luka@racki.dev
